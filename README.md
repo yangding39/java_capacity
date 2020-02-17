@@ -1,4 +1,2 @@
-# 引言
-
-Java程序员能力提升
+# Initial page
 
