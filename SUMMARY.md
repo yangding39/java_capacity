@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [引言](README.md)
 
 ## 1. 并发编程 <a id="bing-fa-bian-cheng"></a>
 
